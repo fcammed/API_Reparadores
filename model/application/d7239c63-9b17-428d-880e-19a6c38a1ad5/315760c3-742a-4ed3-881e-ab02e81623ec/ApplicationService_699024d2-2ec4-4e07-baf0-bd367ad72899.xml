@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send recados"
-    id="699024d2-2ec4-4e07-baf0-bd367ad72899"/>
+    name="Resp recados"
+    id="699024d2-2ec4-4e07-baf0-bd367ad72899"
+    documentation="Respuesta a recados del servicio o nuevos recados al tramitador.&#xD;&#xA;10.000"/>

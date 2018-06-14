@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Confirm Llegada"
-    id="d3080897-b234-4339-bcd8-c7565387145f"/>
+    id="d3080897-b234-4339-bcd8-c7565387145f"
+    documentation="Cumplimentación de la confirmación de llegada a la cita.&#xD;&#xA;50.000"/>

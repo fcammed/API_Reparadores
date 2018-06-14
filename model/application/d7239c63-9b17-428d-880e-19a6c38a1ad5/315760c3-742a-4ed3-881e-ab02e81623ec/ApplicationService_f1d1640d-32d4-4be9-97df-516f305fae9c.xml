@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Carga doc"
-    id="f1d1640d-32d4-4be9-97df-516f305fae9c"/>
+    id="f1d1640d-32d4-4be9-97df-516f305fae9c"
+    documentation="Carga de formularios del servicio (encargo, SMV, albarán, etc.). Requiere conversión a formato requerido en la Web.&#xD;&#xA;63.120"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="List New Recados"
+    id="bd31cad2-9db8-4474-8578-b6ec7001090c"
+    documentation="Consulta nuevos recados al tramitador.&#xD;&#xA;Requiere más info del proceso "/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Conf coberturas"
-    id="496d479f-2a41-48f4-892e-06ebf3f552cb"/>
+    id="496d479f-2a41-48f4-892e-06ebf3f552cb"
+    documentation="Acceso directo al formulario de confirmación del servicio desde aplicaciones externas&#xD;&#xA;63.000"/>

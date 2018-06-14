@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Carga foto"
-    id="9d966504-914e-4ebb-87e0-7f0d305cf945"/>
+    id="9d966504-914e-4ebb-87e0-7f0d305cf945"
+    documentation="Carga de fotos del servicio (incluye proceso de compresión).&#xD;&#xA;260.000"/>

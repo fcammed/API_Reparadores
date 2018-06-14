@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Consulta Servicio"
-    id="87d8ad2c-ccbc-42af-b2dc-099154e7e2c6"/>
+    id="87d8ad2c-ccbc-42af-b2dc-099154e7e2c6"
+    documentation="Lectura de datos de nuevo ofrecimiento (teléfonos, gremios, dirección, etc.)&#xD;&#xA;50.000"/>

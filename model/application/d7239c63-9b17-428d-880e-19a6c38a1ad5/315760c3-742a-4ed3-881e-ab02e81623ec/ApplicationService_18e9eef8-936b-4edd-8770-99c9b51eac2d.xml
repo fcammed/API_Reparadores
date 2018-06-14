@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="List recados"
-    id="18e9eef8-936b-4edd-8770-99c9b51eac2d"/>
+    name="List Recados"
+    id="18e9eef8-936b-4edd-8770-99c9b51eac2d"
+    documentation="Lectura de recados asociados al servicio.&#xD;&#xA;1.500.000"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión repaso"
-    id="6841d46a-90c4-40bc-b625-a022d475faaf"/>
+    name="New Repaso"
+    id="6841d46a-90c4-40bc-b625-a022d475faaf"
+    documentation="Actualización del estado del repaso (Gestión del Repaso)&#xD;&#xA;673.000"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sincronización Agendas"
-    id="338b0bda-87cb-4005-a0d7-7bb3eb119c15"/>
+    id="338b0bda-87cb-4005-a0d7-7bb3eb119c15"
+    documentation="Sincronización de agendas del 72 A con agenda MA&#xD;&#xA;N/A ,  (requiere detalle)"/>
